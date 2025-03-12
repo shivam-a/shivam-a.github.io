@@ -1,0 +1,148 @@
+const courses = [
+  {
+    title: 'Land-Use and Transport - Strategies and Models',
+    number: 'BV520010',
+    link: 'https://www.mos.ed.tum.de/en/sv/teaching/integrated-land-use-and-transport-modelling/',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Transport Concepts and Implementation',
+    number: 'BGU52014',
+    link: 'https://academics.nat.tum.de/en/studies/org/mh/details/mod/BGU52014',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Infrastructure Planning',
+    number: 'BV340009',
+    link: 'https://www.cee.ed.tum.de/en/vwb/lecture/master-programs/transportation-systems/infrastructure-planning/',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Traffic Management',
+    number: 'BV560024',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?pKnotenNr=671418&pOrgNr=15092',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Cross-Cutting Fundamentals and Methods',
+    number: 'BGU56038',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371/',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Transportation Systems in Germany',
+    number: 'BGU56039',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Project Seminar',
+    number: 'BV520003',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Applied Transport Modeling with MATSim',
+    number: 'BGU68012',
+    link: 'hhttps://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=en/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1821690&pOrgNr=47277',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Sustainable Transportation',
+    number: 'BGU56047D2',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Analysis Methods - Statistics and GIS',
+    number: 'BV580010',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Intelligent Transport Systems',
+    number: 'BV560023',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?pKnotenNr=671414&pOrgNr=15092',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Computer Aided Traffic Engineering with Matlab',
+    number: 'BV610020',
+    link: 'https://www.fsd.ed.tum.de/teaching/mscae/',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Professional Software Development',
+    number: 'BGU65006',
+    link: 'https://www.cee.ed.tum.de/ccbe/teaching/master/professional-software-development',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Spatial Modelling: Tools to Evaluate Planning Strategies',
+    number: 'BGU68001',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=en/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1171490&pOrgNr=47277',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Traffic Data Collection and Analysis',
+    number: 'BGU56048',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=de/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1350883&pOrgNr=15092',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Transportation Economics',
+    number: 'BGU70005',
+    link: 'https://campus.tum.de/tumonline/wbModhbReport.downloadPublicMHBVersion?pOrgNr=14184&pStpStpNr=4371',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Object-Oriented Programming for Transport Engineers',
+    number: 'BGU68010',
+    link: 'https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=en/WBMODHB.wbShowMHBReadOnly?pKnotenNr=1548989&pOrgNr=47277',
+    university: 'Technical University of Munich',
+  },
+  {
+    title: 'Management Consulting Specialization',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/1b6ca55179ab9d6c28a41fcebd211413',
+    university: 'Emory University',
+  },
+  {
+    title: 'Business Statistics and Analysis Specialization',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/a65f7cb61fee6ce71587f1a690321a1e',
+    university: 'Rice University',
+  },
+  {
+    title: 'Excel Skills for Business Specialization',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/e4e386fc47c41da1a0cfb2dcf7def858',
+    university: 'Macquarie University',
+  },
+  {
+    title: 'Scripting with Python and SQL for Data Engineering',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/16f8bdab2ab67a25a4e9390cbff03701',
+    university: 'Duke University',
+  },
+  {
+    title: 'Introduction to Machine Learning',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/d518ebb4e559f62af6bbdacbcfc58a80',
+    university: 'Duke University',
+  },
+  {
+    title: 'Model Thinking',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/30d95642696822141c43b9e5812fb036',
+    university: 'University of Michigan',
+  },
+  {
+    title: 'Python Data Structures',
+    number: 'Coursera',
+    link: 'https://coursera.org/share/09331d3e108706dc2edceb075ef0d1bd',
+    university: 'University of Michigan',
+  },
+];
+
+export default courses;
