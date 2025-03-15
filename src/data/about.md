@@ -3,11 +3,11 @@ Professional Transport Planner and a wannabe Data Scientist – I assign vehicle
 
 # Some History
 
-- At ages 5-17, Professional “medium achiever” – aced the art of not burning out. Played basketball (poorly), survived 12 years of all-boys school (zero game), and chose Civil Engineering over literally anything else. Spoiler: Should’ve sold dad’s automobile parts.
-- At age 18, Discovered girls exist. Panicked. 
-- At age 19, Became a professional event volunteer (read: free labor) for college fests. Joined ASCE-VIT Chapter to build bridges (metaphorical ones, mostly) and concrete canoes.
-- At age 20, “Marketing Head” for a steel bridge team = made promotional videos and begged strangers for money. Won a fancy award in the U.S. (Doctors Bayers Award ≈ “We Tried” trophy).
-- At age 21, Rejected adulthood, applied to two grad schools. Picked Germany over Canada because tuition-free > thand and doorie (jo sahi jaaye na).
+- At ages 5-17, Professional “medium achiever” – aced the art of not burning out. Played basketball (poorly), survived 12 years of all-boys school (zero game), and chose Science and then Civil Engineering (again for no game) over literally anything else. Spoiler: Should’ve sold dad’s automobile parts.
+- At age 18, Discovered girls exist in College that I can talk to. Panicked. 
+- At age 19, Became a professional event volunteer (read: free labor) for college fests. Joined ASCE-VIT Chapter's Technical Team, Eklavya to build bridges (metaphorical ones, mostly) and concrete canoes. 
+- At age 20, “Marketing Head” for the steel bridge team = made promotional videos and begged strangers for money. Won a fancy award in the U.S. (Doctors Bayers Award ≈ “We Tried” trophy).
+- At age 21, Rejected adulthood, applied to two grad schools. Picked Germany over Canada because tuition-free wasn't there, thand (coldness) was lesser and doorie (distance from India) was samller.
 - At age 22, Graduated as a “Civil” Engineer (emphasis on civil – still figuring that out). Moved to Munich, learned winters here are basically loneliness. Bonus: First breakup and rebound in the same year. Efficiency!
 - At age 23, Culture shock + homelessness (thanks, German housing crisis!). Survived on Pakistani and Punjabi hospitality, odd jobs (flipping burgers at Five Guys 🍔), and sheer delusion.
 - At age 24, Mastered the art of crying when codes didn't work during an internship that I bagged at EiFER. Mom’s health nosedived. Realized adulthood is just a series of “uh-oh” moments.
@@ -42,21 +42,21 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # I am grateful to 
 
 - Mumma: For being my everything!
-- Papa: For being present financially always us even when he sometimes didn't have enough for himself but being physcially absent almost always
-- Nonie (Siddhanth): For doing all the things I conveniently avoided when I was "studying". Son and Sibling MVP award goes to you.
+- Papa: For being present financially for us always—even when he sometimes didn’t have enough for himself—but being physically absent almost always.
+- Nonie (Siddhanth): For doing all the things I conveniently avoided when I was “studying.” Son and Sibling MVP award goes to you.
 - Shruti & Rajat: For Neimat & Nirvair—the tiny Google Duo and WhatsApp CEOs who kept Nani’s smile in business.
-- Sunita Masi & Jhai: Backup moms who sometimes left "their" families for "ours".
-- Sonakshi For checking on Bhanama sometimes—like a human "How’s Mom?" alarm clock. We appreciate the 2% effort (it’s 2% more than most).
-- Bade Papa: For asking about Mom’s health after finishing his daily WWE match with Papa. 
-- Bunty Uncle ji and family: Hyderabad’s answer to Batman – no cave, but all the resources. Most generous person I have ever met.
-- Dr. Moiz Lalani (KIMS): For being the Sherlock Holmes of lungs. You deserved a cape, but settled for a stethoscope.
-- Caretakers & Cooks: For tolerating my family’s chaos
-- Shivaani: For being there for me
-- Friends (Adnan, Ahmad, Aniket, Anshul, Ashraful, Avsar, Basit, Clara, Claudia, Deepanshu, Gyan, Harjot, Imaad, Kishmala, Krishna, Navneet, Prahlad, Raunak, Rafael, Rishab, Saili, Shenal, Zeeshan): For pretending my transport rants were fascinating. Special shoutout to whoever invented “mute” on group calls.
-- Gautham: For teaching me Hyderabad’s true landmarks: best old hyderbadi food spots, best place for coffee 
-- Dr. Vasantha Kumar (VIT): For making transportation engineering sound cooler than it is, and writing an LOR that almost made me cry (happy tears).
-- Dr Rolf, Dr Carlos, Dr Nico, Dr Qin (TUM): For letting me ~~suffer~~ grow through thesis hell. You’re the reason I now dream in MATSim. 
-- Dr. Amit Agarwal (IITR): For bonding over MATSim like it’s a cult, and giving me Java code to fix instead of my life.
-- Mahesh & Neelam (Systra): For answering my “Wait, what’s a base year model?” questions post-masters. Career saviors, unpaid therapists.
+- Sunita Masi & Jhai: Backup moms who sometimes prioritized “ours” over “their” families.
+- Sonakshi: For checking on Bhanama sometimes. We appreciate the 2% effort (it’s 2% more than most).
+- Bade Papa: For asking about Mom’s health after finishing his daily WWE match with Papa.
+- Bunty Uncle ji and family: Hyderabad’s equivalent of Batman—no cave, but all the resources. Most generous person I have ever met.
+- Dr. Moiz Lalani (KIMS): For being the Sherlock Holmes of lungs. You deserved a cape but settled for a stethoscope.
+- Caretakers & Cooks: For tolerating my family’s chaos.
+- Friends in alphabetical order (Adnan, Ahmad, Aniket, Anshul, Ashraful, Avsar, Basit, Clara, Claudia, Deepanshu, Gyan, Harjot, Imaad, Kishmala, Krishna, Madhav, Navneet, Prahlad, Raunak, Rafael, Rishab, Saili, Saumya, Shenal, Zeeshan): For tolerating me. 
+- Shivaani: For being there for me and also tolerating me.
+- Gautham: For teaching me Hyderabad’s true landmarks: best old Hyderabadi food spots, best place for coffee.
+- Dr. Vasantha Kumar (VIT): For making transportation engineering sound cooler than it is and writing an LOR that almost made me cry (happy tears).
+- Dr. Rolf, Dr. Carlos, Dr. Nico, Dr. Qin (TUM): For letting me ~~suffer~~ grow through thesis hell. You’re the reason I used to dream in MATSim.
+- Dr. Amit Agarwal (IITR): For bonding over MATSim like it’s a cult and giving me Java code to fix instead of my life.
+- Mahesh & Neelam (Systra): For answering my “Wait, what’s a base-year model?” questions post-masters. Career saviors, unpaid therapists. Now, I dream in SATURN (not the planet, the modelling software).
 
 If we are friends and you feel like you belong on this list, you're probably right. Submit a PR, or ask me, and I'll add you.

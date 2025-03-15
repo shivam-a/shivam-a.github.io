@@ -54,6 +54,7 @@ const Job = ({
     {/* Projects */}
     {projects && (
       <div className="projects" style={{ margin: '10px 0 0 20px' }}>
+        <h5> PROJECTS: </h5>
         {projects.map((project) => (
           <div key={project.name} className="project" style={{ marginBottom: '10px' }}>
             {/* Project Name and Duration */}
