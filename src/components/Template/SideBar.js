@@ -12,9 +12,17 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Shivam Arora</h2>
-        <p>
-          <a href="mailto:shivam.arora4896@gmail.com">shivam.arora4896@gmail.com</a>
+        <h2>
+          Shivam Arora
+        </h2>
+        <p style={{ marginTop: '-16px', opacity: 0.9 }}>
+          Shivaam Aroora
+        </p>
+        <p style={{ marginTop: '-16px', fontSize: '0.6em', opacity: 0.5 }}>
+          (she/vam) is (he/him)
+        </p>
+        <p style={{ textTransform: 'none', marginTop: '8px' }}>
+          Transport Planner | Data Science Enthusiast | Automation Specialist
         </p>
       </header>
     </section>
@@ -26,11 +34,18 @@ const SideBar = () => (
         experience in transport modeling, specializing in strategic modeling and
         data science. Skilled in automation and software development, I leverage
         Python and batch scripting to streamline workflows and enhance efficiency.
-        I am majorly experienced in running traffic assisgnments using MATSim and SATURN,
+        I am majorly experienced in running traffic assignments using MATSim and SATURN,
         alongside in-depth analysis of mobility, spatial, and traffic datasets.
         I am passionate about integrating data science and automation to
         accelerate and optimize transport modeling processes, ensuring faster and
         more effective decision-making.
+      </p>
+      <p>
+        <strong>My Philosophy:</strong> I believe in transforming transport and
+        infrastructure sustainably by harnessing the power of data and automation.
+        By integrating innovative technologies and data-driven insights, I aim to
+        create smarter, greener, and more efficient systems that serve communities
+        while preserving our planet for future generations.
       </p>
       <ul className="actions">
         <li>
