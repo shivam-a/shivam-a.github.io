@@ -6,12 +6,12 @@ const skills = [
   },
   {
     title: 'COBALT',
-    competency: 2,
+    competency: 1,
     category: ['Transport Modelling'],
   },
   {
     title: 'TUBA',
-    competency: 2,
+    competency: 1,
     category: ['Transport Modelling'],
   },
   {
@@ -36,29 +36,29 @@ const skills = [
   },
   {
     title: 'JavaScript',
-    competency: 2,
+    competency: 1,
     category: ['Web Development'],
   },
   {
     title: 'Bash',
-    competency: 4,
+    competency: 3,
     category: ['Tools', 'Languages'],
   },
-  {
-    title: 'CUBE',
-    competency: 2,
-    category: ['Transport Modelling'],
-  },
-  {
-    title: 'VISSIM',
-    competency: 2,
-    category: ['Transport Modelling'],
-  },
-  {
-    title: 'VISSUM',
-    competency: 2,
-    category: ['Transport Modelling'],
-  },
+  // {
+  //   title: 'CUBE',
+  //   competency: 1,
+  //   category: ['Transport Modelling', 'Tools'],
+  // },
+  // {
+  //   title: 'VISSIM',
+  //   competency: 2,
+  //   category: ['Transport Modelling'],
+  // },
+  // {
+  //   title: 'VISSUM',
+  //   competency: 1,
+  //   category: ['Transport Modelling'],
+  // },
   {
     title: 'SQL/SQLite3',
     competency: 2,
